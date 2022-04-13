@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">Android Expandable Listview</string>
+
+    <string-array name="list_header">
+        <item>Barisal</item>
+        <item>Chittagong</item>
+        <item>Dhaka</item>
+        <item>Khulna</item>
+        <item>Mymensingh</item>
+        <item>Rajshahi</item>
+        <item>Rangpur</item>
+        <item>Sylhet</item>
+    </string-array>
+
+    <string-array name="list_child">
+                <item>Barisal\nBarguna\nBhola\nJhalokati\nPatuakhali\nPirojpur</item>
+
+        <item>Brahmanbaria\nComilla\nChandpur\nLakshmipur\nNoakhali
+            Feni\nKhagrachhari\nRangamati\nBandarban\nChittagong\nCoxsBazar</item>
+
+        <item>Dhaka\nGazipur\nKishoreganj\nManikganj\nMunshiganj\nNarayanganj
+                \nNarsingdi\nTangail\nFaridpur\nGopalganj\nMadaripur\nRajbari
+                \nShariatpur</item>
+
+        <item>Bagerhat\nChuadanga\nJashore\nJhenaidah\nKhulna\nKushtia
+                    Magura\nMeherpur\nNarail\nSatkhira</item>
+
+        <item>Mymensingh
+                        Netrokona
+                        Jamalpur
+                        Sherpur</item>
+
+
+        <item>Joypurhat
+                        Naogaon
+                        Nawabganj
+                        Natore
+                        Pabna
+                        Bogra
+                        Rajshahi
+                        Sirajganj</item>
+
+        <item>
+                Dinajpur
+                Kurigram
+                Gaibandha
+                Lalmonirhat
+                Nilphamari
+                Panchagarh
+                Rangpur
+                Thakurgaon</item>
+
+        <item>
+            Habiganj
+            Moulvibazar
+            Sunamganj
+            Sylhet
+            </item>
+
+    </string-array>
+
+</resources>
