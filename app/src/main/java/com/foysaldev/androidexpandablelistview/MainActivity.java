@@ -80,6 +80,28 @@ public class MainActivity extends AppCompatActivity {
         listDataHeader = new ArrayList<>();
         listDataChild = new HashMap<>();
 
+        /*listDataHeader.add("1. Barisal");
+        listDataHeader.add("2. Chittagong");
+
+        List<String> Barisal = new ArrayList<>();
+        Barisal.add("1.1 Barisal");
+        Barisal.add("1.2 Barguna");
+        Barisal.add("1.3 Bhola");
+        Barisal.add("1.4 Jhalokati");
+        Barisal.add("1.5 Patuakhali");
+        Barisal.add("1.6 Pirojpur");
+
+        List<String> Chittagong = new ArrayList<>();
+        Chittagong.add("1.1 Brahmanbaria");
+        Chittagong.add("1.2 Comilla");
+        Chittagong.add("1.3 Chandpur");
+        Chittagong.add("1.4 Lakshmipur");
+        Chittagong.add("1.5 Noakhali");
+        Chittagong.add("1.6 Feni");
+
+        listDataChild.put(listDataHeader.get(0),Barisal);
+        listDataChild.put(listDataHeader.get(1),Chittagong);*/
+
         for (int i = 0; i < headerString.length; i++) {
             listDataHeader.add(headerString[i]);
 
